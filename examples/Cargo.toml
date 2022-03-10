@@ -5,8 +5,6 @@ publish = false
 edition = "2021"
 
 [dependencies]
-nemlc = { git = 'https://github.com/menedo/nemlc.git', branch = 'main' }
-poirot = { git = 'https://github.com/menedo/poirot.git', branch = 'main' }
 nemlang = { git = 'https://github.com/menedo/nemlang.git', branch = 'main' }
 image = "0.23.6"
 rusttype = "0.9.2"
