@@ -1,0 +1,9 @@
+[package]
+name = "nlang"
+version = "0.0.1"
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "Nlang is the implementation of source manager client for NEML."
+edition = "2021"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+keywords = ["NEML", "neno"]
